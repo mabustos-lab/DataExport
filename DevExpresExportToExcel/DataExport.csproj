@@ -6,6 +6,16 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>disable</Nullable>
 		<LangVersion>latest</LangVersion>
+		<GenerateDocumentationFile>True</GenerateDocumentationFile>
+		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+		<LangVersion>latest</LangVersion>
+		<!-- Versión del paquete NuGet -->
+		<Version>1.0.0.0</Version>
+		<!-- Versión de ensamblado -->
+		<AssemblyVersion>1.0.0.0</AssemblyVersion>
+		<!-- Versión del archivo DLL -->
+		<FileVersion>1.0.0.0</FileVersion>
+		<Title>DataTable Exporter</Title>
 	</PropertyGroup>
 
 	<ItemGroup>

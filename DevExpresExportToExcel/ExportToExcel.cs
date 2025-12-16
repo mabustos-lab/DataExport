@@ -7,7 +7,7 @@ namespace DataExport
     public static class ExportToExcel
     {
         /// <summary>
-        /// Exporta a Excel un <see cref="DataTable"/>, usando <see cref="SaveFileDialog"/>
+        /// Exporta a Excel un <see cref="DataTable"/>
         /// </summary>
         /// <param name="dataSource">DataTable que se requiere exportar</param>
         /// <param name="filePath">Ruta del archivo excel.</param>
