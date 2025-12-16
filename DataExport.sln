@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataExport", "DevExpresExportToExcel\DataExport.csproj", "{1FB1EF73-BC29-4B50-A978-02DE36716052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataExportTests", "DataExportTests\DataExportTests.csproj", "{B64387E6-5140-47C6-BD2A-EF0717FA6378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB1EF73-BC29-4B50-A978-02DE36716052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB1EF73-BC29-4B50-A978-02DE36716052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB1EF73-BC29-4B50-A978-02DE36716052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB1EF73-BC29-4B50-A978-02DE36716052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64387E6-5140-47C6-BD2A-EF0717FA6378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64387E6-5140-47C6-BD2A-EF0717FA6378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64387E6-5140-47C6-BD2A-EF0717FA6378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64387E6-5140-47C6-BD2A-EF0717FA6378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E506571-EF2C-4817-87C7-01CD61C2F3B7}
+	EndGlobalSection
+EndGlobal
